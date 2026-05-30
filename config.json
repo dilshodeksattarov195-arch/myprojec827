@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingpetch",
+        "uuid": 2421456,
+        "checksum": "i571pn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
